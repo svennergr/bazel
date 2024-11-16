@@ -280,7 +280,7 @@
           "compatibility_proxy": {
             "bzlFile": "@@rules_java+//java:repositories.bzl",
             "ruleClassName": "_compatibility_proxy_repo_rule",
-            "attributes": {}
+            "attributes": {} 
           }
         },
         "recordedRepoMappingEntries": [
